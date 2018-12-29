@@ -1,7 +1,7 @@
 # Thermin
 
 
-## [Demo Video](https://drive.google.com/file/d/1PMxKZGdmxjxOIYkK5i-5tOVhL51P0yat/view) of our Thermin playing music!
+### [Demo Video](https://drive.google.com/file/d/1PMxKZGdmxjxOIYkK5i-5tOVhL51P0yat/view) of our Thermin playing music!
 
 ![Distance Sensor](https://github.com/shetharp/thermin/blob/master/distance%20sensor.jpeg)
 
